@@ -1,17 +1,17 @@
-Teacher, Data Analyst/Scientist & Product Data Manager
+# Teacher, Data Analyst/Scientist & Product Data Manager
 
-Technical Skills: Python, SQL, PowerBI, Excel
+## Technical Skills: Python, SQL, PowerBI, Excel
 
-Education
+## Education
 
 - Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen , UK (December 2023) [15 credits at SCQF level 9]
 - M.Sc., Human Rescource Management | The Robert Gordon University Aberdeen , UK (November 2009)
 - MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006) [World Bank & African Capacity Building Foundations Scholarships]
 - B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September 2002)
 
-Work Experience
+## Work Experience
 
-Product Data Manager @ ABM Multisector Ltd (Sept 2010 - Present)
+## Product Data Manager @ ABM Multisector Ltd (Sept 2010 - Present)
 
 A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
 
@@ -31,7 +31,7 @@ Experience/Skills
 - Identify and mitigate risks throughout the product lifecycle, ensuring the successful completion of projects.
 
 
-Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
+## Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
 
 - Seasoned Business Economics teacher, proficient in Python for statistical analysis, Excel, and database management. 
 - Demonstrates a strong track record in boosting students' technological fluency and readiness for a digitalised future. 
@@ -68,7 +68,7 @@ Achievements:
 
 
 
-Projects Portfolio
+## Projects Portfolio
 
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
@@ -82,6 +82,6 @@ Machine Learning & AI Proficiency
 Data Visualisation Expertise
 - One of my core strengths is transforming complex data sets into clear, comprehensible visuals. I am adept at using tools like  Tableau for data visualisation purposes. For instance, I created an interactive dashboard using Tableau for a client, which allowed them to easily access and understand key performance metrics, leading to more informed business decisions. My experience in this area is highlighted throughout my work history and my proficiency in various data visualisation tools and programs.
 
-References
+## References
 
 - Available on Request
