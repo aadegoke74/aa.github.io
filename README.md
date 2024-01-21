@@ -1,5 +1,4 @@
-# aadegoke74.github.io
-Teacher & Data Analyst?Scientist
+Teacher, Data Analyst/Scientist & Product Manager
 
 Technical Skills: Python, SQL, PowerBI, Excel
 
