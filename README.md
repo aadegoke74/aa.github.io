@@ -1,4 +1,4 @@
-Teacher, Data Analyst/Scientist & Product Manager
+Teacher, Data Analyst/Scientist & Product Data Manager
 
 Technical Skills: Python, SQL, PowerBI, Excel
 
