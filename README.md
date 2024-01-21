@@ -1,18 +1,19 @@
 # Teacher, Data Analyst/Scientist & Product Data Manager
 
+## Professional Profile
+As a seasoned Data Scientist with extensive experience extracting valuable insights and knowledge from complex datasets, I specialise in employing advanced visualisation and statistical analysis techniques. My expertise lies in identifying and interpreting interrelationships between various features within datasets, contributing significantly to understanding and predicting target variables and features. Proficient in not only the technical aspects of data science but also in navigating the legal and ethical constraints associated with handling sensitive data; I ensure that all practices adhere to the highest standards of data ethics and compliance. This blend of technical understanding and ethical awareness positions me as a versatile and responsible professional in data science.
+
 ## Technical Skills: Python, SQL, PowerBI, Excel
 
 ### Education
-
-- Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen, UK (December 2023)
-- M.Sc., HRM | The Robert Gordon University Aberdeen, UK (November 2009)
-- MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006)
-- B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September 2002)
+Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen, UK (December 2023)
+M.Sc., HRM | The Robert Gordon University Aberdeen, UK (November 2009)
+MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006)
+B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September 2002)
 
 ### Work Experience
 
 #### Product Data Manager @ ABM Multisector Ltd (Sept 2010 - Present)
-
 A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
 
 Experience/Skills
@@ -32,7 +33,6 @@ Experience/Skills
 
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
-
 - Seasoned Business Economics teacher, proficient in Python for statistical analysis, Excel, and database management. 
 - Demonstrates a strong track record in boosting students' technological fluency and readiness for a digitalised future. 
 - Skilled in crafting engaging curricula that inspire dynamic learning experiences. 
@@ -45,7 +45,6 @@ Experience/Skills
 
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
-
 Centre for Energy Research & Development 2002 – 2008: Obafemi Awolowo University, Nigeria
 Business Intelligence (BI) Data Analyst | CERD
 - Engineered, designed, and maintained advanced data warehouses and BI solutions.
@@ -69,7 +68,6 @@ Achievements:
 
 
 ## Projects Portfolio
-
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
@@ -83,5 +81,4 @@ Data Visualisation Expertise
 - One of my core strengths is transforming complex data sets into clear, comprehensible visuals. I am adept at using tools like  Tableau for data visualisation purposes. For instance, I created an interactive dashboard using Tableau for a client, which allowed them to easily access and understand key performance metrics, leading to more informed business decisions. My experience in this area is highlighted throughout my work history and my proficiency in various data visualisation tools and programs.
 
 ## References
-
 - Available on Request
