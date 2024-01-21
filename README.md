@@ -4,9 +4,9 @@
 
 ### Education
 
-- Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen , UK (December 2023) [15 credits at SCQF level 9]
-- M.Sc., Human Rescource Management | The Robert Gordon University Aberdeen , UK (November 2009)
-- MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006) [World Bank & African Capacity Building Foundations Scholarships]
+- Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen, UK (December 2023)
+- M.Sc., HRM | The Robert Gordon University Aberdeen, UK (November 2009)
+- MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006)
 - B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September 2002)
 
 ### Work Experience
