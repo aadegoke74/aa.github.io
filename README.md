@@ -32,11 +32,17 @@ Experience/Skills
 - Identify and mitigate risks throughout the product lifecycle, ensuring the successful completion of projects.
 
 
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
+- Seasoned Business Economics teacher, proficient in Python for statistical analysis, Excel, and database management. 
+- Demonstrates a strong track record in boosting students' technological fluency and readiness for a digitalised future. 
+- Skilled in crafting engaging curricula that inspire dynamic learning experiences. 
+- Utilises state-of-the-art teaching tools and digital media for maximum student engagement and comprehension.
+- Diligently tracks student progress, setting ambitious targets to predict examination outcomes accurately. 
+- Communicates student progress and areas needing improvement effectively with students and their families—acts as a mentor, aiding students in academic and personal challenges. 
+- Leads and engages in extracurricular activities to promote well-rounded student growth. Enforces school behavioural standards to maintain a positive educational setting.
+- Committed to continuous professional development, staying current with the latest educational trends and techniques. Provides fair, curriculum-aligned feedback on assignments.
+- Skills include Information Technology, Educational Technology, Business Analysis, Analytical and Data Analysis skills, and a strong background in teaching.
 
 
 Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
@@ -62,18 +68,21 @@ Achievements:
 - Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
 
 
+
 Projects Portfolio
-Programming languages + software 
-- SQL, Python, etc. Incorporate these into your core skills section and provide examples of how you put them into use in your work experience section.
 
-Statistics 
-– Thorough knowledge of statistics is vital for data scientists, so be sure to showcase your relevant experience in this area throughout your CV.
+Programming Languages & Software Skills
+- Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
-Machine learning + AI 
-– Increasingly, the modern data scientist needs to be familiar with AI, machine learning and the related techniques, such as decision trees and logistic regression etc. Any knowledge in these areas, whether that’s been gained through University, a course or a previous role will be a huge advantage — so make sure you shout out about it.
+Statistics Knowledge
+- My thorough understanding of statistics is a cornerstone of my capabilities as a data scientist. I have applied statistical methods to interpret data and inform decision-making processes throughout my career. For example, I used statistical models to analyse customer behaviour, providing insights that led to a 20% increase in sales for my employer.
 
-Data visualisation 
-– You need to be able to transform your data into a format that’s easily understood, using industry tools like ggplot and Tableau. Point out any experience you have data visualisation in your work experience section, and remember to name any related tools or programmes you’re familiar with.
+Machine Learning & AI Proficiency
+- My familiarity with AI and machine learning, encompassing techniques like decision trees and logistic regression, is a crucial aspect of my skill set. This knowledge, acquired through university education, specialised courses, and hands-on experience in previous roles, has been instrumental in my professional growth. In one project, I implemented a machine learning algorithm to enhance predictive analysis, significantly improving our forecasts' accuracy.
+
+Data Visualisation Expertise
+- One of my core strengths is transforming complex data sets into clear, comprehensible visuals. I am adept at using tools like  Tableau for data visualisation purposes. For instance, I created an interactive dashboard using Tableau for a client, which allowed them to easily access and understand key performance metrics, leading to more informed business decisions. My experience in this area is highlighted throughout my work history and my proficiency in various data visualisation tools and programs.
 
 References
+
 - Available on Request
