@@ -12,57 +12,68 @@ Education
 
 Work Experience
 
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+Product Data Manager @ ABM Multisector Ltd (Sept 2010 - Present)
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
+
+Experience/Skills
+- I have successfully spearheaded the launch of a new product, culminating in a 30% surge in revenue during the initial quarter.
+- I guide cross-functional teams in developing and rolling out innovative product features, boosting customer satisfaction by 20%.
+- Formulate and execute an exhaustive product roadmap, reducing time-to-market for new releases by 15%.
+- Conduct thorough market research and competitor analysis to pinpoint emerging trends, inform product strategy, and lead to a 10% growth in market share.
+- Implement agile methodologies, enhancing product development efficiency by 25%.
+- Work collaboratively with stakeholders to ascertain product requirements and prioritise features, focusing on customer needs and resulting in a 10% increase in customer retention.
+- Manage product budgets and resource allocation, ensuring cost-effectiveness and maximising return on investment.
+- Employ data analytics and user feedback to inform and continuously refine product decisions.
+- Establish and nurture strong client relationships, securing customer satisfaction and fostering enduring partnerships.
+- Devise and execute potent go-to-market strategies, contributing to a 20% rise in product adoption.
+- Develop comprehensive product launch plans, coordinating marketing efforts and sales enablement activities.
+- Implement user testing and feedback channels, leading to a 15% improvement in product usability and user experience.
+- Identify and mitigate risks throughout the product lifecycle, ensuring the successful completion of projects.
+
+
 Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
 
 Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 Projects
 
-Data-Driven EEG Band Discovery with Decision Trees
 
-Publication
+Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Centre for Energy Research & Development 2002 – 2008: Obafemi Awolowo University, Nigeria
+Business Intelligence (BI) Data Analyst | CERD
+- Engineered, designed, and maintained advanced data warehouses and BI solutions.
+- Transformed diverse data sources into organised formats using BI tools.
+- Produced valuable insights and comprehensive reports for informed decisions. 
 
-EEG Band Discovery
+Key Roles & Accomplishments: 
+- Data Integration: Gathered, cleaned, and integrated data from various sources into a centralised warehouse. 
+- Database Design: Created efficient data warehouse architecture for analytics. 
+- Data Modelling: Designed models for seamless querying and analysis. 
+- BI Tool Implementation: Choose and implement BI tools for effective data visualisation. 
+- Report Generation: Developed reports and dashboards for stakeholder insights. 
+- Performance Optimisation: Monitored and improved system efficiency. 
+- Data Security: Ensured strong data security measures. 
+- User Training: Provided comprehensive BI tool training. Continuous Improvement: Stayed updated with BI trends. 
 
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+Achievements:
+- Optimised warehouse architecture, improving data quality by 32%.
+- Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
 
-Publication
 
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Projects Portfolio
+Programming languages + software 
+- SQL, Python, etc. Incorporate these into your core skills section and provide examples of how you put them into use in your work experience section.
 
-Bike Study
+Statistics 
+– Thorough knowledge of statistics is vital for data scientists, so be sure to showcase your relevant experience in this area throughout your CV.
 
-Talks & Lectures
+Machine learning + AI 
+– Increasingly, the modern data scientist needs to be familiar with AI, machine learning and the related techniques, such as decision trees and logistic regression etc. Any knowledge in these areas, whether that’s been gained through University, a course or a previous role will be a huge advantage — so make sure you shout out about it.
 
-Causality: The new science of an old question - GSP Seminar, Fall 2021
+Data visualisation 
+– You need to be able to transform your data into a format that’s easily understood, using industry tools like ggplot and Tableau. Point out any experience you have data visualisation in your work experience section, and remember to name any related tools or programmes you’re familiar with.
 
-Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
-Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-
-A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-
-Weeks of Welcome Poster Competition - UTD, Fall 2019
-
-A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-Data Science YouTube
-
-Publications
-
-Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-Data Science Blog
+References
+- Available on Request
