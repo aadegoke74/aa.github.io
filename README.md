@@ -1,13 +1,14 @@
 # aadegoke74.github.io
 Data Scientist
 
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Technical Skills: Python, SQL, PowerBI, Excel
 
 Education
 
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen , UK (December 2023) [15 credits at SCQF level 9]
+M.Sc., Human Rescource Management | The Robert Gordon University Aberdeen , UK (November 2009)
+M.Sc., Human Rescource Management | The Robert Gordon University Aberdeen , UK (December 2006)
+B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (May 2002)
 Work Experience
 
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
