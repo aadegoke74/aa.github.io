@@ -18,50 +18,46 @@ A results-oriented Product Manager with a sincere dedication to crafting user-fo
 
 Experience/Skills
 Experiences/Skills:
-	•	Led product launches, resulting in a significant revenue increase and market share expansion.
-	•	Directed cross-functional teams to enhance product features, improving customer satisfaction and retention.
-	•	Streamlined product development cycles, utilizing agile methodologies to boost efficiency and reduce time-to-market.
-	•	Conducted in-depth market analyses and leveraged data analytics to inform strategic product decisions and risk mitigation.
-	•	Orchestrated comprehensive go-to-market strategies and engagement initiatives to increase product adoption and enhance user experience.
+- Led product launches, resulting in a significant revenue increase and market share expansion.
+- Directed cross-functional teams to enhance product features, improving customer satisfaction and retention.
+- Streamlined product development cycles, utilizing agile methodologies to boost efficiency and reduce time-to-market.
+- Conducted in-depth market analyses and leveraged data analytics to inform strategic product decisions and risk mitigation.
+- Orchestrated comprehensive go-to-market strategies and engagement initiatives to increase product adoption and enhance user experience.
 
 Achievements:
-
-	•	Achieved a 30% surge in revenue during the initial quarter post-product launch.
-	•	Boosted customer satisfaction by 20% through innovative product features.
-	•	Reduced time-to-market for new releases by 15%.
-	•	Led to a 10% growth in market share.
-	•	Enhanced product development efficiency by 25% with agile methodologies.
-	•	Increased customer retention by 10% by focusing on customer needs.
-	•	Maximized return on investment through adequate budget and resource management.
-	•	Contributed to a 20% rise in product adoption with potent market strategies.
-	•	Improved product usability and user experience by 15% through user testing and feedback.
+- Achieved a 30% surge in revenue during the initial quarter post-product launch.
+- Boosted customer satisfaction by 20% through innovative product features.
+- Reduced time-to-market for new releases by 15%.
+- Led to a 10% growth in market share.
+- Enhanced product development efficiency by 25% with agile methodologies.
+- Increased customer retention by 10% by focusing on customer needs.
+- Maximized return on investment through adequate budget and resource management.
+- Contributed to a 20% rise in product adoption with potent market strategies.
+- Improved product usability and user experience by 15% through user testing and feedback.
 
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
 Experience:
-
-	•	Seasoned Business Economics teacher.
-	•	Proficient in Python for statistical analysis, Excel, and database management.
-	•	Demonstrates technological fluency in educational settings.
-	•	Skilled in crafting engaging curricula and utilizing digital media for teaching.
-	•	Tracks and predicts student examination outcomes.
-	•	Communicates effectively with students and their families, providing mentorship.
-	•	Leads extracurricular activities and enforces behavioural standards.
-	•	Committed to continuous professional development in educational trends and techniques.
+- Seasoned Business Economics teacher.
+- Proficient in Python for statistical analysis, Excel, and database management.
+- Demonstrates technological fluency in educational settings.
+- Skilled in crafting engaging curricula and utilizing digital media for teaching.
+- Tracks and predicts student examination outcomes.
+- Communicates effectively with students and their families, providing mentorship.
+- Leads extracurricular activities and enforces behavioural standards.
+- Committed to continuous professional development in educational trends and techniques.
 
 Achievements:
-
-	•	Boosted students’ readiness for a digitalized future.
-	•	Inspired dynamic learning experiences through engaging curricula.
-	•	Achieved maximum student engagement and comprehension with state-of-the-art teaching tools.
-	•	Set ambitious targets to predict examination outcomes accurately.
-	•	Aided students in overcoming academic and personal challenges.
-	•	Promoted well-rounded student growth through extracurricular activities.
-	•	Provided fair, curriculum-aligned feedback on assignments.
-	•	Developed strong skills in Information Technology, Educational Technology, Business Analysis, and Analytical and Data Analysis.
+- Boosted students’ readiness for a digitalized future.
+- Inspired dynamic learning experiences through engaging curricula.
+- Achieved maximum student engagement and comprehension with state-of-the-art teaching tools.
+- Set ambitious targets to predict examination outcomes accurately.
+- Aided students in overcoming academic and personal challenges.
+- Promoted well-rounded student growth through extracurricular activities.
+- Provided fair, curriculum-aligned feedback on assignments.
+- Developed strong skills in Information Technology, Educational Technology, Business Analysis, and Analytical and Data Analysis.
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
-Centre for Energy Research & Development 2002 – 2008: Obafemi Awolowo University, Nigeria
 Business Intelligence (BI) Data Analyst | CERD
 - Engineered, designed, and maintained advanced data warehouses and BI solutions.
 - Transformed diverse data sources into organised formats using BI tools.
@@ -80,8 +76,6 @@ Key Roles & Accomplishments:
 Achievements:
 - Optimised warehouse architecture, improving data quality by 32%.
 - Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
-
-
 
 ## [Projects Portfolio](https://aadegoke74.github.io)
 Programming Languages & Software Skills
