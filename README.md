@@ -67,7 +67,7 @@ Achievements:
 
 
 
-## Projects Portfolio
+## [Projects Portfolio] - (https://aadegoke74.github.io)
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
