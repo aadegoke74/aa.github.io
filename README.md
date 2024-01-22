@@ -17,32 +17,48 @@ B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September
 A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
 
 Experience/Skills
-- I have successfully spearheaded the launch of a new product, culminating in a 30% surge in revenue during the initial quarter.
-- I guide cross-functional teams in developing and rolling out innovative product features, boosting customer satisfaction by 20%.
-- Formulate and execute an exhaustive product roadmap, reducing time-to-market for new releases by 15%.
-- Conduct thorough market research and competitor analysis to pinpoint emerging trends, inform product strategy, and lead to a 10% growth in market share.
-- Implement agile methodologies, enhancing product development efficiency by 25%.
-- Work collaboratively with stakeholders to ascertain product requirements and prioritise features, focusing on customer needs and resulting in a 10% increase in customer retention.
-- Manage product budgets and resource allocation, ensuring cost-effectiveness and maximising return on investment.
-- Employ data analytics and user feedback to inform and continuously refine product decisions.
-- Establish and nurture strong client relationships, securing customer satisfaction and fostering enduring partnerships.
-- Devise and execute potent go-to-market strategies, contributing to a 20% rise in product adoption.
-- Develop comprehensive product launch plans, coordinating marketing efforts and sales enablement activities.
-- Implement user testing and feedback channels, leading to a 15% improvement in product usability and user experience.
-- Identify and mitigate risks throughout the product lifecycle, ensuring the successful completion of projects.
+Experiences/Skills:
+	•	Led product launches, resulting in a significant revenue increase and market share expansion.
+	•	Directed cross-functional teams to enhance product features, improving customer satisfaction and retention.
+	•	Streamlined product development cycles, utilizing agile methodologies to boost efficiency and reduce time-to-market.
+	•	Conducted in-depth market analyses and leveraged data analytics to inform strategic product decisions and risk mitigation.
+	•	Orchestrated comprehensive go-to-market strategies and engagement initiatives to increase product adoption and enhance user experience.
+
+Achievements:
+
+	•	Achieved a 30% surge in revenue during the initial quarter post-product launch.
+	•	Boosted customer satisfaction by 20% through innovative product features.
+	•	Reduced time-to-market for new releases by 15%.
+	•	Led to a 10% growth in market share.
+	•	Enhanced product development efficiency by 25% with agile methodologies.
+	•	Increased customer retention by 10% by focusing on customer needs.
+	•	Maximized return on investment through adequate budget and resource management.
+	•	Contributed to a 20% rise in product adoption with potent market strategies.
+	•	Improved product usability and user experience by 15% through user testing and feedback.
 
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
-- Seasoned Business Economics teacher, proficient in Python for statistical analysis, Excel, and database management. 
-- Demonstrates a strong track record in boosting students' technological fluency and readiness for a digitalised future. 
-- Skilled in crafting engaging curricula that inspire dynamic learning experiences. 
-- Utilises state-of-the-art teaching tools and digital media for maximum student engagement and comprehension.
-- Diligently tracks student progress, setting ambitious targets to predict examination outcomes accurately. 
-- Communicates student progress and areas needing improvement effectively with students and their families—acts as a mentor, aiding students in academic and personal challenges. 
-- Leads and engages in extracurricular activities to promote well-rounded student growth. Enforces school behavioural standards to maintain a positive educational setting.
-- Committed to continuous professional development, staying current with the latest educational trends and techniques. Provides fair, curriculum-aligned feedback on assignments.
-- Skills include Information Technology, Educational Technology, Business Analysis, Analytical and Data Analysis skills, and a strong background in teaching.
+Experience:
 
+	•	Seasoned Business Economics teacher.
+	•	Proficient in Python for statistical analysis, Excel, and database management.
+	•	Demonstrates technological fluency in educational settings.
+	•	Skilled in crafting engaging curricula and utilizing digital media for teaching.
+	•	Tracks and predicts student examination outcomes.
+	•	Communicates effectively with students and their families, providing mentorship.
+	•	Leads extracurricular activities and enforces behavioural standards.
+	•	Committed to continuous professional development in educational trends and techniques.
+
+Achievements:
+
+	•	Boosted students’ readiness for a digitalized future.
+	•	Inspired dynamic learning experiences through engaging curricula.
+	•	Achieved maximum student engagement and comprehension with state-of-the-art teaching tools.
+	•	Set ambitious targets to predict examination outcomes accurately.
+	•	Aided students in overcoming academic and personal challenges.
+	•	Promoted well-rounded student growth through extracurricular activities.
+	•	Provided fair, curriculum-aligned feedback on assignments.
+	•	Developed strong skills in Information Technology, Educational Technology, Business Analysis, and Analytical and Data Analysis.
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
 Centre for Energy Research & Development 2002 – 2008: Obafemi Awolowo University, Nigeria
