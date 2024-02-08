@@ -90,5 +90,7 @@ Machine Learning & AI Proficiency
 Data Visualisation Expertise
 - One of my core strengths is transforming complex data sets into clear, comprehensible visuals. I am adept at using tools like  Tableau for data visualisation purposes. For instance, I created an interactive dashboard using Tableau for a client, which allowed them to easily access and understand key performance metrics, leading to more informed business decisions. My experience in this area is highlighted throughout my work history and my proficiency in various data visualisation tools and programs.
 
+[Data Cleaning](https://github.com/aadegoke74/Data-Cleaning-Project/blob/main/Data%20Cleaning%20Tasks.ipynb) 
+- Load the data from the CSV file into a pandas DataFrame. Examine the data to identify which columns are numerical and which are categorical. For numerical columns: Calculate the mean of the column. Replace missing values with the mean of that column. For categorical columns: Determine the mode (most common value) of the column. Replace missing values with the mode of that column.
 ## References
 - Available on Request
