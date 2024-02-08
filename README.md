@@ -1,22 +1,22 @@
-# [Teacher, Data Analyst/Scientist & Product Data Manager](https://aadegoke74.github.io)
+# [Teacher, Data Analyst/Scientist & Product Data Manager]
 
 ## Professional Profile
 As a seasoned Data Scientist with extensive experience extracting valuable insights and knowledge from complex datasets, I specialise in employing advanced visualisation and statistical analysis techniques. My expertise lies in identifying and interpreting interrelationships between various features within datasets, contributing significantly to understanding and predicting target variables and features. Proficient in not only the technical aspects of data science but also in navigating the legal and ethical constraints associated with handling sensitive data; I ensure that all practices adhere to the highest standards of data ethics and compliance. This blend of technical understanding and ethical awareness positions me as a versatile and responsible professional in data science.
 
 ## Technical Skills: Python, SQL, PowerBI, Excel, TABLEAU
 
-### Education
+## Education
 Pg.Cert., Data Science with Python | The Robert Gordon University Aberdeen, UK (December 2023)
 M.Sc., HRM | The Robert Gordon University Aberdeen, UK (November 2009)
 MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006)
 B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September 2002)
 
-### Work Experience
+## Work Experience
 
 #### Product Data Manager @ ABM Multisector Ltd (Sept 2010 - Present)
 A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
 
-Experience/Skills
+**Experience/Skills**
 A results-driven Product Manager with a commitment to user-centric product development, leveraging data analytics and agile methodologies to drive business growth.
 - Conducted comprehensive market research and competitor analysis, resulting in a 10% increase in market share.
 - Implemented agile methodologies, boosting product development efficiency by 25%.
@@ -61,7 +61,7 @@ Experience:
 - Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
 **Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
 
-## [Projects Portfolio](https://aadegoke74.github.io)
+## [Projects Portfolio]
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
