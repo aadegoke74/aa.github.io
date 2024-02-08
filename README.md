@@ -1,4 +1,4 @@
-# [Teacher, Data Analyst/Scientist & Product Data Manager]
+# Teacher, Data Analyst/Scientist & Product Data Manager
 
 ## Professional Profile
 As a seasoned Data Scientist with extensive experience extracting valuable insights and knowledge from complex datasets, I specialise in employing advanced visualisation and statistical analysis techniques. My expertise lies in identifying and interpreting interrelationships between various features within datasets, contributing significantly to understanding and predicting target variables and features. Proficient in not only the technical aspects of data science but also in navigating the legal and ethical constraints associated with handling sensitive data; I ensure that all practices adhere to the highest standards of data ethics and compliance. This blend of technical understanding and ethical awareness positions me as a versatile and responsible professional in data science.
@@ -61,7 +61,7 @@ Experience:
 - Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
 **Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
 
-## [Projects Portfolio]
+# Projects Portfolio
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
