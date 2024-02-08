@@ -17,53 +17,36 @@ B.Sc[ED] Hons., Economics | The Lagos State University Lagos, Nigeria (September
 A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
 
 Experience/Skills
-Experiences/Skills:
-- Led product launches, resulting in a significant revenue increase and market share expansion.
-- Directed cross-functional teams to enhance product features, improving customer satisfaction and retention.
-- Streamlined product development cycles, utilizing agile methodologies to boost efficiency and reduce time-to-market.
-- Conducted in-depth market analyses and leveraged data analytics to inform strategic product decisions and risk mitigation.
-- Orchestrated comprehensive go-to-market strategies and engagement initiatives to increase product adoption and enhance user experience.
+A results-driven Product Manager with a commitment to user-centric product development, leveraging data analytics and agile methodologies to drive business growth.
+- Conducted comprehensive market research and competitor analysis, resulting in a 10% increase in market share.
+- Implemented agile methodologies, boosting product development efficiency by 25%.
+- Collaborated with stakeholders to prioritize features based on customer needs, enhancing customer retention by 10%.
+- Managed product budgets and resources effectively, maximizing ROI.
+- Utilized data analytics and user feedback to refine product decisions continuously.
 
-Achievements:
-- Achieved a 30% surge in revenue during the initial quarter post-product launch.
-- Boosted customer satisfaction by 20% through innovative product features.
-- Reduced time-to-market for new releases by 15%.
-- Led to a 10% growth in market share.
-- Enhanced product development efficiency by 25% with agile methodologies.
-- Increased customer retention by 10% by focusing on customer needs.
-- Maximized return on investment through adequate budget and resource management.
-- Contributed to a 20% rise in product adoption with potent market strategies.
-- Improved product usability and user experience by 15% through user testing and feedback.
+These strategies led to successful product launches, improved usability by 15%, and fostered enduring client relationships, contributing to a 20% rise in product adoption and mitigating risks throughout the product lifecycle.
+**Skills:** Data Analysis, Web Design and Development (jobruns.com) · Project Planning · Human Resources Information Systems (HRIS) · Microsoft Power BI · Agile Methodologies · Leadership · Business Strategy · Python (Programming Language) · Data Analysis
 
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
 Experience:
-- Seasoned Business Economics teacher.
-- Proficient in Python for statistical analysis, Excel, and database management.
-- Demonstrates technological fluency in educational settings.
-- Skilled in crafting engaging curricula and utilizing digital media for teaching.
-- Tracks and predicts student examination outcomes.
-- Communicates effectively with students and their families, providing mentorship.
-- Leads extracurricular activities and enforces behavioural standards.
-- Committed to continuous professional development in educational trends and techniques.
-
-Achievements:
-- Boosted students’ readiness for a digitalized future.
-- Inspired dynamic learning experiences through engaging curricula.
-- Achieved maximum student engagement and comprehension with state-of-the-art teaching tools.
-- Set ambitious targets to predict examination outcomes accurately.
-- Aided students in overcoming academic and personal challenges.
-- Promoted well-rounded student growth through extracurricular activities.
-- Provided fair, curriculum-aligned feedback on assignments.
-- Developed strong skills in Information Technology, Educational Technology, Business Analysis, and Analytical and Data Analysis.
+- Seasoned Business Economics teacher, proficient in Python for statistical analysis, Excel, and database management.
+- Demonstrates a strong track record in boosting students' technological fluency and readiness for a digitalised future.
+- Skilled in crafting engaging curricula that inspire dynamic learning experiences.
+- Utilises state-of-the-art teaching tools and digital media for maximum student engagement and comprehension.
+- Diligently tracks student progress, setting ambitious targets to predict examination outcomes accurately.
+- Communicates student progress and areas needing improvement effectively with students and their families—acts as a mentor, aiding students in academic and personal challenges.
+- Leads and engages in extracurricular activities to promote well-rounded student growth. Enforces school behavioural standards to maintain a positive educational setting.
+- Committed to continuous professional development, staying current with the latest educational trends and techniques, and providing fair, curriculum-aligned feedback on assignments.
+- Skills include Information Technology, Educational Technology, Business Analysis, Analytical and Data Analysis skills, and a strong background in teaching.
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
-Business Intelligence (BI) Data Analyst | CERD
+**Business Intelligence (BI) Data Analyst | CERD**
 - Engineered, designed, and maintained advanced data warehouses and BI solutions.
 - Transformed diverse data sources into organised formats using BI tools.
 - Produced valuable insights and comprehensive reports for informed decisions. 
 
-Key Roles & Accomplishments: 
+**Key Roles & Accomplishments:** 
 - Data Integration: Gathered, cleaned, and integrated data from various sources into a centralised warehouse. 
 - Database Design: Created efficient data warehouse architecture for analytics. 
 - Data Modelling: Designed models for seamless querying and analysis. 
@@ -73,19 +56,20 @@ Key Roles & Accomplishments:
 - Data Security: Ensured strong data security measures. 
 - User Training: Provided comprehensive BI tool training. Continuous Improvement: Stayed updated with BI trends. 
 
-Achievements:
+**Achievements:**
 - Optimised warehouse architecture, improving data quality by 32%.
 - Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
+**Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
 
 ## [Projects Portfolio](https://aadegoke74.github.io)
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
-Statistics Knowledge
-- My thorough understanding of statistics is a cornerstone of my capabilities as a data scientist. I have applied statistical methods to interpret data and inform decision-making processes throughout my career. For example, I used statistical models to analyse customer behaviour, providing insights that led to a 20% increase in sales for my employer.
+### [Bivariate Data Exploration Tasks](https://github.com/aadegoke74/Bivariate-Data-Exploration-Project/blob/main/Bivariate%20Data%20Exploration%20Project.ipynb)
+- Statistics and distribution of the numerical time against one of the categorical variables
+An initial exploratory analysis is necessary to analyse how categorical variables affect the numerical "time" variable, which represents ship processing time. This includes computing average times per category and performing statistical tests to determine if variations in means are significant. Key categorical variables such as "weather," "onSchedule," "labour," "origin," "delay," and "port" are considered for their potential impact on processing time.
 
-Machine Learning & AI Proficiency
-- My familiarity with AI and machine learning, encompassing techniques like decision trees and logistic regression, is a crucial aspect of my skill set. This knowledge, acquired through university education, specialised courses, and hands-on experience in previous roles, has been instrumental in my professional growth. In one project, I implemented a machine learning algorithm to enhance predictive analysis, significantly improving our forecasts' accuracy.
+Summary statistics and visual tools like boxplots will be used to discern disparities in processing time across different categories, indicating if deeper statistical evaluation is justified. The process involves calculating the mean, median, and standard deviation of "time" for each categorical variable and creating boxplots to observe distributions, outliers, and notable differences.
 
 ### [Data Exploration Tasks - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb) 
 - Skilled in performing data exploration tasks, including statistical analysis of individual variables. Proficient in extracting insights and trends from data through thorough examination of variable distributions and descriptive statistics.
