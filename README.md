@@ -87,10 +87,10 @@ Statistics Knowledge
 Machine Learning & AI Proficiency
 - My familiarity with AI and machine learning, encompassing techniques like decision trees and logistic regression, is a crucial aspect of my skill set. This knowledge, acquired through university education, specialised courses, and hands-on experience in previous roles, has been instrumental in my professional growth. In one project, I implemented a machine learning algorithm to enhance predictive analysis, significantly improving our forecasts' accuracy.
 
-###[Data Exploration Tasks - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb)) 
+[###Data Exploration Tasks - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb) 
 - Skilled in performing data exploration tasks, including statistical analysis of individual variables. Proficient in extracting insights and trends from data through thorough examination of variable distributions and descriptive statistics.
 
-###[Data Cleaning](https://github.com/aadegoke74/Data-Cleaning-Project/blob/main/Data%20Cleaning%20Tasks.ipynb) 
+[###Data Cleaning](https://github.com/aadegoke74/Data-Cleaning-Project/blob/main/Data%20Cleaning%20Tasks.ipynb) 
 - Load the data from the CSV file into a pandas DataFrame. Examine the data to identify which columns are numerical and which are categorical. For numerical columns: Calculate the mean of the column. Replace missing values with the mean of that column. For categorical columns: Determine the mode (most common value) of the column. Replace missing values with the mode of that column.
 ## References
 - Available on Request
