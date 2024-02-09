@@ -65,6 +65,10 @@ Experience:
 Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
+### [Data Transformation Project](https://github.com/aadegoke74/Data-Transformation-Project/blob/main/Section%204%20Data%20Transformation%20Project.ipynb)
+- Proficient in executing data transformation projects, adept at manipulating and converting data across various formats and structures to meet project requirements. Experienced in utilizing advanced data transformation techniques and tools to cleanse, normalize, and integrate data from diverse sources. Skilled in developing and implementing efficient data transformation pipelines, ensuring transformed data accuracy, consistency, and reliability.
+- Familiar with industry-standard data transformation methodologies and best practices, capable of optimizing data workflows and automating transformation processes for enhanced productivity and efficiency. Strong analytical and problem-solving abilities combined with meticulous attention to detail in managing data transformation projects effectively.
+  
 ### [Bivariate Data Exploration Tasks](https://github.com/aadegoke74/Bivariate-Data-Exploration-Project/blob/main/Bivariate%20Data%20Exploration%20Project.ipynb)
 - Statistics and distribution of the numerical time against one of the categorical variables
 - An initial exploratory analysis is necessary to analyse how categorical variables affect the numerical "time" variable, which represents ship processing time. This includes computing average times per category and performing statistical tests to determine if variations in means are significant. Key categorical variables such as "weather," "onSchedule," "labour," "origin," "delay," and "port" are considered for their potential impact on processing time.
