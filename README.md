@@ -62,7 +62,7 @@ Experience:
 **Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
 
 # Projects Portfolio
-Programming Languages & Software Skills
+### Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
 ### [Data Transformation Project](https://github.com/aadegoke74/Data-Transformation-Project/blob/main/Section%204%20Data%20Transformation%20Project.ipynb)
