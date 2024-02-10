@@ -1,5 +1,5 @@
 # Teacher, Data Analyst/Scientist & Product Data Manager
-
+    - See blue link to the portfolio toward the end of the resume
 ## Professional Profile
 As a seasoned Data Scientist with extensive experience extracting valuable insights and knowledge from complex datasets, I specialise in employing advanced visualisation and statistical analysis techniques. My expertise lies in identifying and interpreting interrelationships between various features within datasets, contributing significantly to understanding and predicting target variables and features. Proficient in not only the technical aspects of data science but also in navigating the legal and ethical constraints associated with handling sensitive data; I ensure that all practices adhere to the highest standards of data ethics and compliance. This blend of technical understanding and ethical awareness positions me as a versatile and responsible professional in data science.
 
