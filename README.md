@@ -59,7 +59,7 @@ Experience:
 **Achievements:**
 - Optimised warehouse architecture, improving data quality by 32%.
 - Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
-**Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
+- **Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
 
 # Projects Portfolio
 ### Programming Languages & Software Skills
