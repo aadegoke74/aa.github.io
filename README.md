@@ -29,6 +29,7 @@ These strategies led to successful product launches, improved usability by 15%, 
 
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
+**Experience/Skills**
 - Technological Fluency Advancement: Demonstrates a strong track record in enhancing students’ technological fluency, which is crucial for navigating a digitalised future.
 - Engaging Curriculum Development: Skilled in crafting captivating curricula that inspire dynamic learning experiences and foster student interest and participation.
 - Utilisation of Modern Teaching Tools: Utilises state-of-the-art teaching tools and digital media to maximise student engagement and comprehension, ensuring effective learning outcomes.
@@ -36,25 +37,15 @@ These strategies led to successful product launches, improved usability by 15%, 
 - Holistic Student Support and Development: A student mentor effectively communicates progress and improvement areas to students and families. Leads extracurricular activities promoting well-rounded growth while maintaining positive educational standards.
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
-**Business Intelligence (BI) Data Analyst | CERD**
-- Engineered, designed, and maintained advanced data warehouses and BI solutions.
-- Transformed diverse data sources into organised formats using BI tools.
-- Produced valuable insights and comprehensive reports for informed decisions. 
+Engineered, designed, and maintained advanced data warehouses and BI solutions; Transformed diverse data sources into organised formats using BI tools; Produced valuable insights and comprehensive reports for informed decisions. 
 
-**Key Roles & Accomplishments:** 
-- Data Integration: Gathered, cleaned, and integrated data from various sources into a centralised warehouse. 
-- Database Design: Created efficient data warehouse architecture for analytics. 
-- Data Modelling: Designed models for seamless querying and analysis. 
-- BI Tool Implementation: Choose and implement BI tools for effective data visualisation. 
-- Report Generation: Developed reports and dashboards for stakeholder insights. 
-- Performance Optimisation: Monitored and improved system efficiency. 
-- Data Security: Ensured strong data security measures. 
-- User Training: Provided comprehensive BI tool training. Continuous Improvement: Stayed updated with BI trends. 
-
-**Achievements:**
-- Optimised warehouse architecture, improving data quality by 32%.
-- Implemented advanced BI tools, reducing lead time by 21% and costs by 48%. at CERD
-- **Skills:** Analytical Skills · Microsoft Excel · Microsoft Power BI · Agile Methodologies · Data Analysis · Powerbi · Python (Programming Language) · Data Classification · Data Cleaning · Predictive Modeling · Data Scraping · Data Science · Data Visualization
+**Experience/Skills**
+- Advanced Data Infrastructure Management: Spearheaded the engineering, design, and maintenance of sophisticated data warehouses and BI solutions, ensuring optimal performance and functionality.
+- Data Transformation Expertise: Proficiently converted diverse data sources into structured formats using cutting-edge BI tools, facilitating streamlined analysis and decision-making processes.
+- Insightful Reporting and Decision Support: I produced comprehensive reports and valuable insights, empowering stakeholders with the information needed to make informed decisions and drive business growth.
+- Efficiency Enhancement: Optimised I optimised warehouse architecture and implemented advanced BI tools, resulting in a notable 32% improvement in data quality, a 21% reduction in time b, and a 48% reduction in costs	
+- Data Security Assurance: We implemented and ensured strong data security measures, safeguarding sensitive information against unauthorised access or breaches.
+Seamless Data Modeling: Designed models for seamless querying and analysis, enhancing the efficiency, accuracy of data-driven insights and decision-making processes.
 
 # Projects Portfolio
 ### Programming Languages & Software Skills
