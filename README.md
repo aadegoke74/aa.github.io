@@ -29,16 +29,11 @@ These strategies led to successful product launches, improved usability by 15%, 
 
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
-Experience:
-- Seasoned Business Economics teacher, proficient in Python for statistical analysis, Excel, and database management.
-- Demonstrates a strong track record in boosting students' technological fluency and readiness for a digitalised future.
-- Skilled in crafting engaging curricula that inspire dynamic learning experiences.
-- Utilises state-of-the-art teaching tools and digital media for maximum student engagement and comprehension.
-- Diligently tracks student progress, setting ambitious targets to predict examination outcomes accurately.
-- Communicates student progress and areas needing improvement effectively with students and their families—acts as a mentor, aiding students in academic and personal challenges.
-- Leads and engages in extracurricular activities to promote well-rounded student growth. Enforces school behavioural standards to maintain a positive educational setting.
-- Committed to continuous professional development, staying current with the latest educational trends and techniques, and providing fair, curriculum-aligned feedback on assignments.
-- Skills include Information Technology, Educational Technology, Business Analysis, Analytical and Data Analysis skills, and a strong background in teaching.
+- Technological Fluency Advancement: Demonstrates a strong track record in enhancing students’ technological fluency, which is crucial for navigating a digitalised future.
+- Engaging Curriculum Development: Skilled in crafting captivating curricula that inspire dynamic learning experiences and foster student interest and participation.
+- Utilisation of Modern Teaching Tools: Utilises state-of-the-art teaching tools and digital media to maximise student engagement and comprehension, ensuring effective learning outcomes.
+- Comprehensive Student Progress Monitoring: Diligently tracks student progress and sets ambitious targets, providing accurate predictions for examination outcomes and guiding students toward academic success.
+- Holistic Student Support and Development: A student mentor effectively communicates progress and improvement areas to students and families. Leads extracurricular activities promoting well-rounded growth while maintaining positive educational standards.
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
 **Business Intelligence (BI) Data Analyst | CERD**
