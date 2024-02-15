@@ -18,11 +18,11 @@ A results-oriented Product Manager with a sincere dedication to crafting user-fo
 
 **Experience/Skills**
 A results-driven Product Manager with a commitment to user-centric product development, leveraging data analytics and agile methodologies to drive business growth.
-- Conducted comprehensive market research and competitor analysis, resulting in a 10% increase in market share.
-- Implemented agile methodologies, boosting product development efficiency by 25%.
-- Collaborated with stakeholders to prioritize features based on customer needs, enhancing customer retention by 10%.
-- Managed product budgets and resources effectively, maximizing ROI.
-- Utilized data analytics and user feedback to refine product decisions continuously.
+- Conduct comprehensive market research and competitor analysis, resulting in a 10% increase in market share.
+- Implement agile methodologies, boosting product development efficiency by 25%.
+- Collaborate with stakeholders to prioritize features based on customer needs, enhancing customer retention by 10%.
+- Manage product budgets and resources effectively, maximizing ROI.
+- Utilize data analytics and user feedback to refine product decisions continuously.
 
 These strategies led to successful product launches, improved usability by 15%, and fostered enduring client relationships, contributing to a 20% rise in product adoption and mitigating risks throughout the product lifecycle.
 **Skills:** Data Analysis, Web Design and Development (jobruns.com) · Project Planning · Human Resources Information Systems (HRIS) · Microsoft Power BI · Agile Methodologies · Leadership · Business Strategy · Python (Programming Language) · Data Analysis
