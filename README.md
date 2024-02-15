@@ -18,7 +18,7 @@ A results-oriented Product Manager with a sincere dedication to crafting user-fo
 
 **Experience/Skills**
 A results-driven Product Manager with a commitment to user-centric product development, leveraging data analytics and agile methodologies to drive business growth.
-- Conduct comprehensive market research and competitor analysis, resulting in a 10% increase in market share.
+- Conduct comprehensive market research and competitor analysis, resulting in a 10% increase in market share. Using Helium 10 and Keepa data analytics tools to inform my judgement.
 - Implement agile methodologies, boosting product development efficiency by 25%.
 - Collaborate with stakeholders to prioritize features based on customer needs, enhancing customer retention by 10%.
 - Manage product budgets and resources effectively, maximizing ROI.
