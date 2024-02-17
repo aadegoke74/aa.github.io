@@ -78,9 +78,39 @@ In contrast, indicators like 'delay' or confounders like 'date', which may obscu
 - Summary statistics and visual tools like boxplots will be used to discern disparities in processing time across different categories, indicating if deeper statistical evaluation is justified. The process involves calculating the mean, median, and standard deviation of "time" for each categorical variable and creating boxplots to observe distributions, outliers, and notable differences.
 
 ### [Data Exploration Tasks - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb) 
-- Skilled in performing data exploration tasks, including statistical analysis of individual variables. Proficient in extracting insights and trends from data through thorough examination of variable distributions and descriptive statistics.
+- Skilled in performing data exploration tasks, including statistical analysis of individual variables. Proficient in extracting insights and trends from data through thoroughly examining variable distributions and descriptive statistics.
+- To summarise and comment upon the data for the three numerical variables (time, TEU, and wind), I calculate relevant summary statistics and create visualisations.
+
+a) Time: a continuous numerical variable that likely represents a period or timestamp. Summary statistics and visualisations for time data can provide insights into patterns and trends over time.
+Summary Statistics: 
+ - Mean (average time)
+ - Median (middle time)
+ - Standard Deviation (spread of time values)
+ - Minimum and Maximum (start and end times)
+ - Quartiles (25th, 50th, 75th percentiles)
+
+Visualisations: (See link)
+ - Time Series Plot: I create a line chart showing how the variable changes over time. This can reveal trends, seasonality, and outliers.
+ - Histogram or Density Plot: Create a histogram or density plot to show the distribution of time values. This can help identify any patterns in the time data.
+
+b) TEU (Twenty-foot Equivalent Unit): a numerical variable representing cargo container capacity.
+Summary Statistics:
+ - Mean (average TEU) Median (middle TEU) Standard Deviation (spread of TEU values) Minimum and Maximum (minimum and maximum TEU) Quartiles (25th, 50th, 75th percentiles) Visualizations:
+ - Histogram: Create a histogram to visualize the distribution of TEU values. Helps identify common capacity values.
+ - Box Plot: A box plot can show the median, quartiles, and any outliers in the TEU data, giving insights into the spread of capacity values.
+
+c) Wind: a numerical variable that measures wind speed.
+Summary Statistics:
+ - Mean (average wind speed) Median (middle wind speed) Standard Deviation (spread of wind speed values) Minimum and Maximum (minimum and maximum wind speed) Quartiles (25th, 50th, 75th percentiles) Visualizations:
+ - Histogram: Create a histogram to visualize the distribution of wind speed values. This can help identify typical wind speed ranges.
+ - Box Plot: A box plot can show the median, quartiles, and any outliers in the wind speed data, giving insights into the spread of wind speed values.
+
+Comments:
+ - For time data, I observe time patterns/trends.
+ - TEU data helps understand the capacity of cargo containers.
+ - Wind data provide insights into the wind speed conditions at the ports.
 
 ### [Data Cleaning](https://github.com/aadegoke74/Data-Cleaning-Project/blob/main/Data%20Cleaning%20Tasks.ipynb) 
-- Load the data from the CSV file into a pandas DataFrame. Examine the data to identify which columns are numerical and which are categorical. For numerical columns: Calculate the mean of the column. Replace missing values with the mean of that column. For categorical columns: Determine the mode (most common value) of the column. Replace missing values with the mode of that column.
+- Load the data from the CSV file into a pandas DataFrame. Could you look over the data to identify which columns are numerical and categorical? For numerical columns: Calculate the mean of the column. Replace missing values with the mean of that column. For categorical columns: Determine the column's mode (most common value). Replace missing values with the mode of that column.
 ## References
 - Available on Request
