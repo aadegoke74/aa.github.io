@@ -55,11 +55,11 @@ Seamless Data Modeling: Designed models for seamless querying and analysis, enha
 #### - Explanation of why delay, date or port should not be used as predictors
 Here are more technical reasons for the non-inclusion of variables and the selection of predictors:
     
-    **'Delay':** This variable may not be a reliable predictor due to its susceptibility to confounding factors or external influences not captured in the dataset. Various unmeasured variables could influence' Delay',             making it a poor predictor of the outcome. Its inclusion without proper consideration could lead to misleading conclusions or spurious correlations.
+- **'Delay':** This variable may not be a reliable predictor due to its susceptibility to confounding factors or external influences not captured in the dataset. Various unmeasured variables could influence' Delay',             making it a poor predictor of the outcome. Its inclusion without proper consideration could lead to misleading conclusions or spurious correlations.
    
-    **'Date':** The 'Date' variable might introduce seasonality effects, which could complicate the modelling process and require advanced techniques to account for temporal patterns adequately. Without proper handling,           the 'Date' variable may not contribute meaningfully to the prediction task and could introduce noise or bias into the model.
+- **'Date':** The 'Date' variable might introduce seasonality effects, which could complicate the modelling process and require advanced techniques to account for temporal patterns adequately. Without proper handling,           the 'Date' variable may not contribute meaningfully to the prediction task and could introduce noise or bias into the model.
    
-    **'Port':** While 'Port' may provide contextual information, it may not directly influence the outcome and could lead to overfitting or biased predictions if used as a predictor without careful consideration. The                 geographical specifics represented by 'Port' may not be inherently linked to the outcome variable, making it a less informative predictor than other variables with stronger causal relationships.
+- **'Port':** While 'Port' may provide contextual information, it may not directly influence the outcome and could lead to overfitting or biased predictions if used as a predictor without careful consideration. The                 geographical specifics represented by 'Port' may not be inherently linked to the outcome variable, making it a less informative predictor than other variables with stronger causal relationships.
 
 By excluding these variables or treating them carefully in the modelling process, I can mitigate the risk of introducing spurious correlations and ensure that the selected predictors contribute meaningfully to the model's predictive performance.
 
