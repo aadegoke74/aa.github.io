@@ -45,11 +45,25 @@ Engineered, designed, and maintained advanced data warehouses and BI solutions; 
 - Insightful Reporting and Decision Support: I produced comprehensive reports and valuable insights, empowering stakeholders with the information needed to make informed decisions and drive business growth.
 - Efficiency Enhancement: Optimised I optimised warehouse architecture and implemented advanced BI tools, resulting in a notable 32% improvement in data quality, a 21% reduction in time b, and a 48% reduction in costs	
 - Data Security Assurance: We implemented and ensured strong data security measures, safeguarding sensitive information against unauthorised access or breaches.
-Seamless Data Modeling: Designed models for seamless querying and analysis, enhancing the efficiency, accuracy of data-driven insights and decision-making processes.
+Seamless Data Modeling: Designed models for seamless querying and analysis, enhancing the efficiency and accuracy of data-driven insights and decision-making processes.
 
 # Projects Portfolio
 ### Programming Languages & Software Skills
-- Proficient in SQL, Python, and similar languages, these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
+- Proficient in SQL, Python, and similar languages; these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
+
+### [Data Modelling Project](https://github.com/aadegoke74/Data-Modelling-Project)
+#### - Explanation of why delay, date or port should not be used as predictors
+Here are more technical reasons for the non-inclusion of variables and the selection of predictors:
+    *'Delay':* This variable may not be a reliable predictor due to its susceptibility to confounding factors or external influences not captured in the dataset. Various unmeasured variables could influence' Delay',             making it a poor predictor of the outcome. Its inclusion without proper consideration could lead to misleading conclusions or spurious correlations.
+    *'Date':* The 'Date' variable might introduce seasonality effects, which could complicate the modelling process and require advanced techniques to account for temporal patterns adequately. Without proper handling,           the 'Date' variable may not contribute meaningfully to the prediction task and could introduce noise or bias into the model.
+    *'Port':* While 'Port' may provide contextual information, it may not directly influence the outcome and could lead to overfitting or biased predictions if used as a predictor without careful consideration. The                 geographical specifics represented by 'Port' may not be inherently linked to the outcome variable, making it a less informative predictor than other variables with stronger causal relationships.
+
+By excluding these variables or treating them carefully in the modelling process, I can mitigate the risk of introducing spurious correlations and ensure that the selected predictors contribute meaningfully to the model's predictive performance.
+
+#### - Justify the choice of the variables that are used as predictors
+Selecting suitable predictors is pivotal for a model's predictive accuracy and intelligibility. Such predictors warrant theoretical or empirical grounding to affirm their relation to the dependent variable. For instance, in maritime logistics, 'TEU' and 'time' are cogent predictors for efficiency, directly quantifying cargo size and processing duration. Similarly, 'gear' could be a robust predictor given its direct operational impact. This aligns with Sharma and Ranjan's (2023) perspective on predictive modelling in intelligent systems.
+
+In contrast, indicators like 'delay' or confounders like 'date', which may obscure underlying seasonal influences, demand a cautious approach. While providing locational context, the variable' port' could introduce bias if not correctly adjusted for operational variability. Hao and Ho's (2019) exposition on machine learning tools like sci-kit-learn further elucidates the necessity of selecting predictors that enhance a model's utility and interpretability, advocating for a rigorous and actionable methodology in analytics.
 
 ### [Data Transformation Project](https://github.com/aadegoke74/Data-Transformation-Project/blob/main/Section%204%20Data%20Transformation%20Project.ipynb)
 - Proficient in executing data transformation projects, adept at manipulating and converting data across various formats and structures to meet project requirements. Experienced in utilizing advanced data transformation techniques and tools to cleanse, normalize, and integrate data from diverse sources. Skilled in developing and implementing efficient data transformation pipelines, ensuring transformed data accuracy, consistency, and reliability.
