@@ -72,14 +72,20 @@ In contrast, indicators like 'delay' or confounders like 'date', which may obscu
 - Proficient in executing data transformation projects, adept at manipulating and converting data across various formats and structures to meet project requirements. Experienced in utilizing advanced data transformation techniques and tools to cleanse, normalize, and integrate data from diverse sources. Skilled in developing and implementing efficient data transformation pipelines, ensuring transformed data accuracy, consistency, and reliability.
 - Familiar with industry-standard data transformation methodologies and best practices, capable of optimizing data workflows and automating transformation processes for enhanced productivity and efficiency. Strong analytical and problem-solving abilities combined with meticulous attention to detail in managing data transformation projects effectively.
   
-### [Bivariate Data Exploration Tasks](https://github.com/aadegoke74/Bivariate-Data-Exploration-Project/blob/main/Bivariate%20Data%20Exploration%20Project.ipynb)
+### [Bivariate Data Exploration Project](https://github.com/aadegoke74/Bivariate-Data-Exploration-Project/blob/main/Bivariate%20Data%20Exploration%20Project.ipynb)
 - Statistics and distribution of the numerical time against one of the categorical variables
 - An initial exploratory analysis is necessary to analyse how categorical variables affect the numerical "time" variable, which represents ship processing time. This includes computing average times per category and performing statistical tests to determine if variations in means are significant. Key categorical variables such as "weather," "onSchedule," "labour," "origin," "delay," and "port" are considered for their potential impact on processing time.
 - Summary statistics and visual tools like boxplots will be used to discern disparities in processing time across different categories, indicating if deeper statistical evaluation is justified. The process involves calculating the mean, median, and standard deviation of "time" for each categorical variable and creating boxplots to observe distributions, outliers, and notable differences.
 
-### [Data Exploration Tasks - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb) 
+- Visualisations: (See blue link) The provided summary statistics suggest that 'weather' impacts port time, with 'disruptive' conditions leading to a slightly higher mean(265) time than 'normal' conditions (234). The 'onSchedule' variable shows a more pronounced difference, where not being on schedule is associated with an increased mean port time. Under 'labour', 'striking' has a higher mean time than 'working', consistent with the expectation that strikes affect operational efficiency. For 'origin', 'Intercontinental' ships have the highest mean time, possibly due to longer journey times or more complex cargo handling.
+
+ - There's a distinct difference in mean time between ships that experienced 'delays' and those that did not, with delays increasing the average time spent at port. The 'port' data, focused solely on 'Abermouth', presents an average time within a broad range, indicating varied port time, even within a single location. These figures highlight the influence of external and operational factors on port efficiency, with the potential for deeper investigation into the causes of these variations.
+
+Next, I will be considering the statistics and distribution of the numerical time against one of the categorical variables that has a significant effect on the ship processing time.
+
+### [Data Exploration Project - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb) 
 - Skilled in performing data exploration tasks, including statistical analysis of individual variables. Proficient in extracting insights and trends from data through thoroughly examining variable distributions and descriptive statistics.
-- To summarise and comment upon the data for the three numerical variables (time, TEU, and wind), I calculate relevant summary statistics and create visualisations.
+- I calculate relevant summary statistics and create visualisations to summarise and comment upon the data for the three numerical variables (time, TEU, and wind).
 
 a) Time: a continuous numerical variable that likely represents a period or timestamp. Summary statistics and visualisations for time data can provide insights into patterns and trends over time.
 Summary Statistics: 
@@ -89,7 +95,7 @@ Summary Statistics:
  - Minimum and Maximum (start and end times)
  - Quartiles (25th, 50th, 75th percentiles)
 
-Visualisations: (See link)
+Visualisations: (See blue link)
  - Time Series Plot: I create a line chart showing how the variable changes over time. This can reveal trends, seasonality, and outliers.
  - Histogram or Density Plot: Create a histogram or density plot to show the distribution of time values. This can help identify any patterns in the time data.
 
