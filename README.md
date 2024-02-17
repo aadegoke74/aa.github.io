@@ -150,14 +150,14 @@ Damodaram (2022) and Steorts (2023) emphasise the importance of removing duplica
  - The code below identifies and displays the number of duplicate rows in the 'ports' Frame. (See blue link)
 
  - c) Convert the rain column from text to numerical format.
-  1. I will strip the "mm" from the values and convert the column to a float type.
-  2. The 'rain' column's "mm" values have been stripped, converting the data to a numerical type. It is crucial to format data appropriately for precise and efficient processing in data analysis. Take the 'rain' c        column as an example: changing values from a string format like "3.1mm" to a numerical one such as 3.1 is essential for quantitative analysis.
-  3. Using numerical data allows for various statistical calculations, such as computing averages, examining correlations, and performing regression analyses, which are complex with string data.
+    1. I will strip the "mm" from the values and convert the column to a float type.
+    2. The 'rain' column's "mm" values have been stripped, converting the data to a numerical type. It is crucial to format data appropriately for precise and efficient processing in data analysis. Take the 'rain' column as an example: changing values from a string format like "3.1mm" to a numerical one such as 3.1 is essential for quantitative analysis.
+    3. Using numerical data allows for various statistical calculations, such as computing averages, examining correlations, and performing regression analyses, which are complex with string data.
 
  - d) Standardise the labour column to have consistent formatting.
-   1. I intend to unify the 'labour' column by substituting '0' with 'striking' and '1' with 'working', ensuring consistency throughout the column.
-   2. I have made the 'labour' column consistent by replacing '0' with 'striking' and '1' with 'working'. This standardisation of categorical data, demonstrated by the transformation of '0' and '1' to 'striking'             and 'working', enhances clarity and uniformity in the dataset. It not only aids in category-based analysis but also improves the readability of the data.
-   3. This process of data cleaning and standardisation is crucial, as emphasised by Steorts (2023) in "A Primer on the Data Cleaning Pipeline" and Zacks, Kenett, and Gedeck (2023) in "Modern Statistics: A                     Computer-Based Approach with Python Solutions." These authors underline the importance of thorough data preparation for achieving accurate and insightful analysis, highlighting the fundamental role of              data preprocessing in statistics.
+    1. I intend to unify the 'labour' column by substituting '0' with 'striking' and '1' with 'working', ensuring consistency throughout the column.
+    2. I have made the 'labour' column consistent by replacing '0' with 'striking' and '1' with 'working'. This standardisation of categorical data, demonstrated by the transformation of '0' and '1' to 'striking'             and 'working', enhances clarity and uniformity in the dataset. It not only aids in category-based analysis but also improves the readability of the data.
+    3. This process of data cleaning and standardisation is crucial, as emphasised by Steorts (2023) in "A Primer on the Data Cleaning Pipeline" and Zacks, Kenett, and Gedeck (2023) in "Modern Statistics: A                     Computer-Based Approach with Python Solutions." These authors underline the importance of thorough data preparation for achieving accurate and insightful analysis, highlighting the fundamental role of              data preprocessing in statistics.
 
 
 ## References
