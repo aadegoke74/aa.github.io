@@ -71,6 +71,15 @@ In contrast, indicators like 'delay' or confounders like 'date', which may obscu
 ### [Data Transformation Project](https://github.com/aadegoke74/Data-Transformation-Project/blob/main/Section%204%20Data%20Transformation%20Project.ipynb)
 - Proficient in executing data transformation projects, adept at manipulating and converting data across various formats and structures to meet project requirements. Experienced in utilizing advanced data transformation techniques and tools to cleanse, normalize, and integrate data from diverse sources. Skilled in developing and implementing efficient data transformation pipelines, ensuring transformed data accuracy, consistency, and reliability.
 - Familiar with industry-standard data transformation methodologies and best practices, capable of optimizing data workflows and automating transformation processes for enhanced productivity and efficiency. Strong analytical and problem-solving abilities combined with meticulous attention to detail in managing data transformation projects effectively.
+
+      (a). In the ports2 dataset, create a new data column called unloadrate. using the formula: unloadrate = TEU / time
+      (b). Plot unloadrate against TEU on a scatterplot and colour code the points by delay category.
+
+The boxplots illustrate the variability in ships' time at the port, segmented by year and month. The annual comparison between 2021 and 2022 shows overlapping interquartile ranges (IQRs), suggesting that the central tendencies of port times may not have significantly shifted year-on-year. Notably, an outlier in 2021 marks an exceptional duration at the port, potentially highlighting an irregular delay.
+
+The monthly distribution across the year indicates a palpable seasonality effect on port times. The IQRs and medians ebb and flow, possibly reflecting operational influences or environmental factors inherent to British seasons. For instance, increased port times in winter could be attributed to adverse weather conditions, while the summer months might experience more efficiency.
+
+No outliers are present in 2022, which could signify a more consistent operation at ports compared to 2021. Nonetheless, outliers and the breadth of IQRs in the monthly data across both years suggest that external or operational factors periodically impact port times. Interpreting these findings cautiously is imperative, as they offer a descriptive snapshot rather than a definitive analysis. A deeper dive into the data is recommended to unravel the causative factors behind these observed temporal patterns.
   
 ### [Bivariate Data Exploration Project](https://github.com/aadegoke74/Bivariate-Data-Exploration-Project/blob/main/Bivariate%20Data%20Exploration%20Project.ipynb)
 - Statistics and distribution of the numerical time against one of the categorical variables
@@ -81,7 +90,10 @@ In contrast, indicators like 'delay' or confounders like 'date', which may obscu
 
  - There's a distinct difference in mean time between ships that experienced 'delays' and those that did not, with delays increasing the average time spent at port. The 'port' data, focused solely on 'Abermouth', presents an average time within a broad range, indicating varied port time, even within a single location. These figures highlight the influence of external and operational factors on port efficiency, with the potential for deeper investigation into the causes of these variations.
 
-Next, I will be considering the statistics and distribution of the numerical time against one of the categorical variables that has a significant effect on the ship processing time.
+Next, I will be considering the statistics and distribution of the numerical time against one of the categorical variables that significantly affect the ship processing time.
+
+ - Boxplot & Correlation Matrix HeatMap Visualisations: (See blue link) Correlation of the numerical time against the other numerical variables
+ - Cross-tabulation Visualisations: (See blue link) of category onSchedule against the category origin.
 
 ### [Data Exploration Project - Statistics of individual variables](https://github.com/aadegoke74/Data-Exploration-Project/blob/main/Data%20Exploration%20Tasks%20-%20Statistics%20of%20individual%20variables.ipynb) 
 - Skilled in performing data exploration tasks, including statistical analysis of individual variables. Proficient in extracting insights and trends from data through thoroughly examining variable distributions and descriptive statistics.
