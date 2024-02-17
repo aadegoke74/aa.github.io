@@ -128,7 +128,37 @@ Comments:
  - TEU data helps understand the capacity of cargo containers.
  - Wind data provide insights into the wind speed conditions at the ports.
 
-### [Data Cleaning](https://github.com/aadegoke74/Data-Cleaning-Project/blob/main/Data%20Cleaning%20Tasks.ipynb) 
-- Load the data from the CSV file into a pandas DataFrame. Could you look over the data to identify which columns are numerical and categorical? For numerical columns: Calculate the mean of the column. Replace missing values with the mean of that column. For categorical columns: Determine the column's mode (most common value). Replace missing values with the mode of that column.
+### [Data Cleaning Project](https://github.com/aadegoke74/Data-Cleaning-Project/blob/main/Data%20Cleaning%20Tasks.ipynb) 
+- a) To identify and replace any cells containing missing data in the DataFrame, I will follow these steps:
+    1. Load the data from the CSV file into a pandas DataFrame.
+    2. Examine the data to identify which columns are numerical or categorical.
+    3. For numerical columns: Calculate the mean of the column. Replace missing values with the mean of that column.
+    4. For categorical columns: Determine the mode (most common value) of the column. Replace missing values with the mode of that column.
+
+Deliberately renaming the DataFrame to ports_replacemissing is a good practice in data analysis, as it provides clarity, prevents potential conflicts, and sets the stage for specific data processing tasks.
+
+### Data cleansing and wrangling
+ - Various methods have been used historically for missing values imputation. Dadi, K et al. (2021) used mean for imputation as it maintains the column's overall distribution and it is widely used. Therefore, their mean shall replace missing values for Gear and Wind.
+
+ - b) To identify and remove any duplicate rows from the DataFrame, I will:
+   1. Use the duplicated() method to identify any duplicate rows, marking them as True if they are duplicates.
+   2. Use the drop_duplicates() method to remove the duplicate rows.
+   3. I will then display the number of duplicate rows identified and removed.
+
+The dataset contains six duplicate rows. I will now remove these duplicates and confirm their removal.
+Damodaram (2022) and Steorts (2023) emphasise the importance of removing duplicates in data management and analysis, highlighting its role in maintaining data integrity and quality.
+ - The code below identifies and displays the number of duplicate rows in the 'ports' Frame. (See blue link)
+
+ - c) Convert the rain column from text to numerical format.
+  1. I will strip the "mm" from the values and convert the column to a float type.
+  2. The 'rain' column's "mm" values have been stripped, converting the data to a numerical type. It is crucial to format data appropriately for precise and efficient processing in data analysis. Take the 'rain' c        column as an example: changing values from a string format like "3.1mm" to a numerical one such as 3.1 is essential for quantitative analysis.
+  3. Using numerical data allows for various statistical calculations, such as computing averages, examining correlations, and performing regression analyses, which are complex with string data.
+
+ - d) Standardise the labour column to have consistent formatting.
+   1. I intend to unify the 'labour' column by substituting '0' with 'striking' and '1' with 'working', ensuring consistency throughout the column.
+   2. I have made the 'labour' column consistent by replacing '0' with 'striking' and '1' with 'working'. This standardisation of categorical data, demonstrated by the transformation of '0' and '1' to 'striking'             and 'working', enhances clarity and uniformity in the dataset. It not only aids in category-based analysis but also improves the readability of the data.
+   3. This process of data cleaning and standardisation is crucial, as emphasised by Steorts (2023) in "A Primer on the Data Cleaning Pipeline" and Zacks, Kenett, and Gedeck (2023) in "Modern Statistics: A                     Computer-Based Approach with Python Solutions." These authors underline the importance of thorough data preparation for achieving accurate and insightful analysis, highlighting the fundamental role of              data preprocessing in statistics.
+
+
 ## References
 - Available on Request
