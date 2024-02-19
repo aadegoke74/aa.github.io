@@ -51,7 +51,7 @@ Seamless Data Modeling: Designed models for seamless querying and analysis, enha
 ### Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages; these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
-### [Data Modelling Project](https://github.com/aadegoke74/Data-Modelling-Project)
+### [Data Modelling Project](https://github.com/aadegoke74/Data-Modelling-Project/blob/main/Data%20Modelling%20Tasks-2.ipynb)
 #### - Explanation of why delay, date or port should not be used as predictors
 Here are more technical reasons for the non-inclusion of variables and the selection of predictors:
     
