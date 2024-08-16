@@ -6,6 +6,7 @@ As a seasoned Data Scientist with extensive experience extracting valuable insig
 ## Technical Skills: Python, PowerBI, Excel, TABLEAU
 
 ## Education
+- #### SCQF LEVEL 9, Data Analytics for Business Decision Making, with TABLEAU | The Robert Gordon University Aberdeen, UK (June 2024)
 - #### SCQF LEVEL 9, Data Science with Python | The Robert Gordon University Aberdeen, UK (December 2023)
 - #### M.Sc., HRM | The Robert Gordon University Aberdeen, UK (November 2009)
 - #### MPSM., Economics, Policy & Project Management  | Ghana Institute of Management and Public Administration, Accra, Ghana (December 2006)
