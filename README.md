@@ -15,42 +15,34 @@ As a seasoned Data Scientist with extensive experience extracting valuable insig
 ## Work Experience
 
 #### Product Data Manager @ ABM Multisector Ltd (Sept 2010 - Present)
-A results-oriented Product Manager with a sincere dedication to crafting user-focused products that bolster business growth. Demonstrates a proven track record in translating market insights into effective product strategies and steering agile development teams to deliver premium products punctually and within budget.
-
 **Experience/Skills**
-A results-driven Product Manager with a commitment to user-centric product development, leveraging data analytics and agile methodologies to drive business growth.
-- Conduct comprehensive market research and competitor analysis, resulting in a 10% increase in market share. Using Helium 10 and Keepa data analytics tools to inform my judgement.
-- Implement agile methodologies, boosting product development efficiency by 25%.
-- Collaborate with stakeholders to prioritize features based on customer needs, enhancing customer retention by 10%.
-- Manage product budgets and resources effectively, maximizing ROI.
-- Utilize data analytics and user feedback to refine product decisions continuously.
-
-These strategies led to successful product launches, improved usability by 15%, and fostered enduring client relationships, contributing to a 20% rise in product adoption and mitigating risks throughout the product lifecycle.
-**Skills:** Data Analysis, Web Design and Development (jobruns.com) · Project Planning · Human Resources Information Systems (HRIS) · Microsoft Power BI · Agile Methodologies · Leadership · Business Strategy · Python (Programming Language) · Data Analysis
-
+- Manage end-to-end data visualization projects, from ideation to execution, using advanced BI tools such as Power BI and Tableau to deliver actionable insights to clients.
+- Develop and implement data visualization standards and best practices, ensuring consistency and clarity across all visual outputs.
+- Utilise Python for data analysis, creating automated workflows that improve data accuracy and efficiency.
+- Collaborate with cross-functional teams, including data engineers, product managers, and UX designers, to develop comprehensive data solutions.
+- Influence stakeholder decision-making by presenting clear, visually engaging reports that highlight key business trends and opportunities.
+- Conduct user research and applied findings to optimize data visualizations, resulting in a 25% increase in user engagement.
 
 #### Teacher, Economics, Business Management, Information Technology @ Aberdeen City Council (January 2015 - Present)
 **Experience/Skills**
-- Technological Fluency Advancement: Demonstrates a strong track record in enhancing students’ technological fluency, which is crucial for navigating a digitalised future.
-- Engaging Curriculum Development: Skilled in crafting captivating curricula that inspire dynamic learning experiences and foster student interest and participation.
-- Utilisation of Modern Teaching Tools: Utilises state-of-the-art teaching tools and digital media to maximise student engagement and comprehension, ensuring effective learning outcomes.
-- Comprehensive Student Progress Monitoring: Diligently tracks student progress and sets ambitious targets, providing accurate predictions for examination outcomes and guiding students toward academic success.
-- Holistic Student Support and Development: A student mentor effectively communicates progress and improvement areas to students and families. Leads extracurricular activities promoting well-rounded growth while maintaining positive educational standards.
+- Design and deliver engaging lessons in Economics, Business Management, and IT, incorporating real-world data to enhance students’ understanding of key concepts.
+- Develop and implement a curriculum that integrates data visualization tools, equipping students with the skills needed to analyse and interpret complex data sets.
+- Led a school-wide initiative to incorporate data-driven decision-making into the administrative processes, resulting in improved efficiency and transparency.
+- Collaborate with fellow educators to share best practices in data visualization, contributing to a more data-literate educational environment.
+
 
 #### Business Data Analyst @ Centre for Energy Research and Development, Nigeria (January 2002 - August 2008)
-Engineered, designed, and maintained advanced data warehouses and BI solutions; Transformed diverse data sources into organised formats using BI tools; Produced valuable insights and comprehensive reports for informed decisions. 
-
 **Experience/Skills**
-- Advanced Data Infrastructure Management: Spearheaded the engineering, design, and maintenance of sophisticated data warehouses and BI solutions, ensuring optimal performance and functionality.
-- Data Transformation Expertise: Proficiently converted diverse data sources into structured formats using cutting-edge BI tools, facilitating streamlined analysis and decision-making processes.
-- Insightful Reporting and Decision Support: I produced comprehensive reports and valuable insights, empowering stakeholders with the information needed to make informed decisions and drive business growth.
-- Efficiency Enhancement: Optimised I optimised warehouse architecture and implemented advanced BI tools, resulting in a notable 32% improvement in data quality, a 21% reduction in time b, and a 48% reduction in costs	
-- Data Security Assurance: We implemented and ensured strong data security measures, safeguarding sensitive information against unauthorised access or breaches.
-Seamless Data Modeling: Designed models for seamless querying and analysis, enhancing the efficiency and accuracy of data-driven insights and decision-making processes.
+- Spearheaded data visualization projects that supported strategic initiatives across multiple departments, leveraging Python and Power BI to create dynamic dashboards and reports.
+- Successfully managed multiple projects simultaneously, ensuring on-time delivery and adherence to project scope.
+- Collaborated with stakeholders to understand business needs and translated them into effective data visualizations that drove decision-making processes.
+- Applied best practices in data visualization and user experience design, resulting in a 30% improvement in data comprehension across the organization.
+- Provided training and mentorship to junior analysts, fostering a culture of continuous learning and innovation in data visualization techniques.
+
 
 # Projects Portfolio
 ### Programming Languages & Software Skills
-- Proficient in SQL, Python, and similar languages; these technical skills form the backbone of my expertise. In my previous roles, I have utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
+- Proficient in SQL, Python, and similar languages; these technical skills form the backbone of my expertise. In my previous roles, I utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
 ### [Data Modelling Project](https://github.com/aadegoke74/Data-Modelling-Project/blob/main/Data%20Modelling%20Tasks-2.ipynb)
 #### - Explanation of why delay, date or port should not be used as predictors
@@ -58,14 +50,14 @@ Here are more technical reasons for the non-inclusion of variables and the selec
     
 - **'Delay':** This variable may not be a reliable predictor due to its susceptibility to confounding factors or external influences not captured in the dataset. Various unmeasured variables could influence' Delay',             making it a poor predictor of the outcome. Its inclusion without proper consideration could lead to misleading conclusions or spurious correlations.
    
-- **'Date':** The 'Date' variable might introduce seasonality effects, which could complicate the modelling process and require advanced techniques to account for temporal patterns adequately. Without proper handling,           the 'Date' variable may not contribute meaningfully to the prediction task and could introduce noise or bias into the model.
+- **'Date':** The 'Date' variable might introduce seasonality effects, which could complicate the modeling process and require advanced techniques to account for temporal patterns adequately. Without proper handling,           the 'Date' variable may not contribute meaningfully to the prediction task and could introduce noise or bias into the model.
    
 - **'Port':** While 'Port' may provide contextual information, it may not directly influence the outcome and could lead to overfitting or biased predictions if used as a predictor without careful consideration. The                 geographical specifics represented by 'Port' may not be inherently linked to the outcome variable, making it a less informative predictor than other variables with stronger causal relationships.
 
-By excluding these variables or treating them carefully in the modelling process, I can mitigate the risk of introducing spurious correlations and ensure that the selected predictors contribute meaningfully to the model's predictive performance.
+By excluding these variables or treating them carefully in the modeling process, I can mitigate the risk of introducing spurious correlations and ensure that the selected predictors contribute meaningfully to the model's predictive performance.
 
 #### - Justify the choice of the variables that are used as predictors
-Selecting suitable predictors is pivotal for a model's predictive accuracy and intelligibility. Such predictors warrant theoretical or empirical grounding to affirm their relation to the dependent variable. For instance, in maritime logistics, 'TEU' and 'time' are cogent predictors for efficiency, directly quantifying cargo size and processing duration. Similarly, 'gear' could be a robust predictor given its direct operational impact. This aligns with Sharma and Ranjan's (2023) perspective on predictive modelling in intelligent systems.
+Selecting suitable predictors is pivotal for a model's predictive accuracy and intelligibility. Such predictors warrant theoretical or empirical grounding to affirm their relation to the dependent variable. For instance, in maritime logistics, 'TEU' and 'time' are cogent predictors for efficiency, directly quantifying cargo size and processing duration. Similarly, 'gear' could be a robust predictor given its direct operational impact. This aligns with Sharma and Ranjan's (2023) perspective on predictive modeling in intelligent systems.
 
 In contrast, indicators like 'delay' or confounders like 'date', which may obscure underlying seasonal influences, demand a cautious approach. While providing locational context, the variable' port' could introduce bias if not correctly adjusted for operational variability. Hao and Ho's (2019) exposition on machine learning tools like sci-kit-learn further elucidates the necessity of selecting predictors that enhance a model's utility and interpretability, advocating for a rigorous and actionable methodology in analytics.
 
