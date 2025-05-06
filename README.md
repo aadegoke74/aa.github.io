@@ -50,7 +50,7 @@ As a seasoned Data Scientist with extensive experience extracting valuable insig
 - Introduced advanced methods including Large Language Models (LLMs) and Generative AI.
 - Designed for beginners and intermediate learners exploring real-world AI implementation.
 
-### [British Airways Data Science Project (Forage) | Predictive Analytics & AI] (Web Scrapping Task for BA.ipynb)
+### [British Airways Data Science Project (Forage) | Predictive Analytics & AI] ([Ba.ipynb](https://github.com/aadegoke74/Data-Modelling-Project/blob/main/Web%20Scrapping%20Task%20for%20BA.ipynb))
 - Scraped & analyzed customer review data, uncovering key satisfaction drivers & behavioral trends.
 - Built a Python-based predictive model, forecasting booking trends and optimizing pricing strategies.
 - Proposed actionable insights, leading to improved customer engagement and revenue optimization.
