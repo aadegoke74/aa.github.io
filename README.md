@@ -44,6 +44,17 @@ As a seasoned Data Scientist with extensive experience extracting valuable insig
 ### Programming Languages & Software Skills
 - Proficient in SQL, Python, and similar languages; these technical skills form the backbone of my expertise. In my previous roles, I utilised SQL for database management and Python for data analysis and automation tasks. For example, I developed a Python-based tool to automate data collection in a recent project, significantly improving efficiency.
 
+### [Building AI Applications – From Concept to Deployment | AI & MVP Hackathon Project (CREED, Aberdeen)] (https://aadegoke74.github.io/Eco-Energy/)
+- Outlined end-to-end process of AI application development—from ideation to Minimum Viable Product (MVP).
+- Covered core stages: data sourcing, cleaning, model training, evaluation, and deployment.
+- Introduced advanced methods including Large Language Models (LLMs) and Generative AI.
+- Designed for beginners and intermediate learners exploring real-world AI implementation.
+
+### [British Airways Data Science Project (Forage) | Predictive Analytics & AI] (Web Scrapping Task for BA.ipynb)
+- Scraped & analyzed customer review data, uncovering key satisfaction drivers & behavioral trends.
+- Built a Python-based predictive model, forecasting booking trends and optimizing pricing strategies.
+- Proposed actionable insights, leading to improved customer engagement and revenue optimization.
+
 ### [Data Modelling Project](https://github.com/aadegoke74/Data-Modelling-Project/blob/main/Data%20Modelling%20Tasks-2.ipynb)
 #### - Explanation of why delay, date or port should not be used as predictors
 Here are more technical reasons for the non-inclusion of variables and the selection of predictors:
